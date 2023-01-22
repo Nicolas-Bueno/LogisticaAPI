@@ -23,7 +23,7 @@ public class ClienteController {
 		cliente2.setId(2L);
 		cliente2.setNome("Maria");
 		cliente2.setTelefone("8985-3025");
-		cliente2.setEmail("mariadofeijao@gmail.com");
+		cliente2.setEmail("mariasilva@gmail.com");
 		return Arrays.asList(cliente1,cliente2);
 	}
 }
